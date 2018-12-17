@@ -1,0 +1,7 @@
+export const ADD_CURRENCY_VALUE = 'ADD_CURRENCY_VALUE';
+export const ADD_CURRENCY_TO_COMPARE = 'ADD_CURRENCY_TO_COMPARE';
+export const ADD_INPUT_VALUE = 'ADD_INPUT_VALUE';
+export const SWITCH_CURRENCIES = 'SWITCH_CURRENCIES';
+export const ADD_INPUT = 'ADD_INPUT';
+export const UAH_USD = 'UAH_USD';
+export const USD_UAH = 'USD_UAH';
